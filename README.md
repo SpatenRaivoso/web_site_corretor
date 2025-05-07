@@ -14,10 +14,10 @@ Você pode editar este projeto de diferentes formas:
 
 ```bash
 # 1. Clone o repositório
-git clone <SEU_GIT_URL>
+git clone https://github.com/SpatenRaivoso/web_site_corretor.git
 
 # 2. Acesse o diretório do projeto
-cd <NOME_DO_PROJETO>
+cd web_site_corretor
 
 # 3. Instale as dependências
 npm install
